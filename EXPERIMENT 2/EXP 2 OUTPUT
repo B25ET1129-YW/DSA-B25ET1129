@@ -1,0 +1,8 @@
+Output : 
+Enter the number of elements: 5 
+Enter the elements:45 27 46 86 23 
+Sorted Array: 23 27 45 46 86 
+Minimum = 23 
+Maximum = 86 
+Middle = 45 
+=== Code Execution Successful ===
